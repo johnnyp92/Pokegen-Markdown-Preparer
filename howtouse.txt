@@ -1,0 +1,28 @@
+Header Setting:
+
+Enter the desired header text in the "Header" entry field.
+Click on the "Set Header" button to set the header.
+The active header will be displayed below the entry field.
+Text Manipulation:
+
+Enter text in the large text input area.
+Use the "To Uppercase" button to convert text to uppercase.
+Use the "To Lowercase" button to convert text to lowercase.
+Filtering and Markdown Generation:
+
+Enter filter criteria in the "Include" and "Exclude" entry fields.
+Click on "Generate Markdown" to create a Markdown table based on the input text, applying filters if specified.
+The generated Markdown will appear in the disabled text output area.
+Search and Replace:
+
+Enter the search query in the "Search" entry field.
+Click on "Search" to highlight occurrences of the query in the input text.
+Use the "Replace" button to replace occurrences of the query with a new text.
+Undo and Redo:
+
+Use Ctrl+Z (Command+Z on macOS) to undo changes in the input text.
+Use Ctrl+Y (Command+Y on macOS) to redo changes.
+Additional Functionality:
+
+The "pokegen_mode" function processes text in a specific format and generates a Markdown table directly.
+This functionality is not currently integrated into the GUI but can be called programmatically.
