@@ -59,21 +59,11 @@ Contributing
 
 Contributions to the Markdown Table Generator project are welcome. If you have suggestions, bug reports, or would like to contribute code, please follow these steps:
 
-Fork the repository.
-Create a new branch (git checkout -b feature/improvement).
-Make your changes and commit them (git commit -am 'Add new feature').
-Push to the branch (git push origin feature/improvement).
-Create a new Pull Request.
-License
-
-Markdown Table Generator is licensed under the MIT License. See the LICENSE file for details.
 
 Credits
 
-This project was developed by [Your Name/Team Name]. Special thanks to the contributors and the tkinter library for providing the GUI framework.
+This project was developed by Johnnyp. But created by ChatGPT 4o. Special thanks to the contributors and the tkinter library for providing the GUI framework.
 
 Contact
 
-For any inquiries or support, please contact [Your Email/Contact Information].
-
-Thank you for using Markdown Table Generator! Happy Markdowning!
+For any inquiries or support, please contact through github.
